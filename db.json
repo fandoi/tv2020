@@ -123,7 +123,7 @@
   {
     "id": 16,
     "title": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8",
-    "yyy": "Live ",
+    "yyy": "",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvri.png"
@@ -131,7 +131,7 @@
   {
     "id": 17,
     "title": "http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
-    "yyy": "Live ",
+    "yyy": "",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/cnn.png"
@@ -139,7 +139,7 @@
   {
     "id": 18,
     "title": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8",
-    "yyy": "Live ",
+    "yyy": "",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/cnbc.png"
@@ -147,7 +147,7 @@
   {
     "id": 19,
     "title": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
-    "yyy": "Live ",
+    "yyy": "",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/cna.png"
@@ -155,7 +155,7 @@
   {
     "id": 20,
     "title": "https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd",
-    "yyy": "Live ",
+    "yyy": "",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/jtv.png"
@@ -163,7 +163,7 @@
   {
     "id": 21,
     "title": "http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8",
-    "yyy": "Live ",
+    "yyy": "",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/disney.png"
@@ -171,7 +171,7 @@
   {
     "id": 22,
     "title": "http://119.82.224.75:1935/live/ahsantv/chunk.m3u8",
-    "yyy": "Live ",
+    "yyy": "",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/ahsan.png"
@@ -179,7 +179,7 @@
   {
     "id": 23,
     "title": "http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8",
-    "yyy": "Live ",
+    "yyy": "",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tv9.png"
@@ -187,7 +187,7 @@
   {
     "id": 24,
     "title": "http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8",
-    "yyy": "Live ",
+    "yyy": "",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/arek.png"
@@ -203,7 +203,7 @@
   {
     "id": 26,
     "title": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8",
-    "yyy": "Live ",
+    "yyy": "",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvrisport.png"
@@ -211,7 +211,7 @@
   {
     "id": 27,
     "title": "http://wowza58.indostreamserver.com:1935/tempotv/live/playlist.m3u8",
-    "yyy": "Live ",
+    "yyy": "",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tempo.png"
@@ -219,7 +219,7 @@
   {
     "id": 28,
     "title": "https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8",
-    "yyy": "Live ",
+    "yyy": "",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/traceurban.png"
@@ -227,7 +227,7 @@
   {
     "id": 29,
     "title": "https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8",
-    "yyy": "Live ",
+    "yyy": "",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/astroawani.png"
@@ -235,7 +235,7 @@
   {
     "id": 30,
     "title": "https://edge.siar.us/albahjahtv/live/playlist.m3u8",
-    "yyy": "Live ",
+    "yyy": "",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/albahjah.png"
