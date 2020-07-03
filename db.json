@@ -53,7 +53,7 @@
     "title": "https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8",
     "yyy": "",
     "iklan": "",
-    "url": "",
+    "url": "1",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvone.png"
   },
   {
@@ -154,11 +154,11 @@
   },
   {
     "id": 20,
-    "title": "https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd",
+    "title": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8",
     "yyy": "",
     "iklan": "",
     "url": "",
-    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/jtv.png"
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvrijakarta.png"
   },
   {
     "id": 21,
@@ -178,11 +178,11 @@
   },
   {
     "id": 23,
-    "title": "http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8",
+    "title": "http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8",
     "yyy": "",
     "iklan": "",
     "url": "",
-    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tv9.png"
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/nabawi.png"
   },
   {
     "id": 24,
