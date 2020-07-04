@@ -245,18 +245,18 @@
   "indo2": [
   {
     "id": 31,
-    "title": "http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass",
-    "yyy": "HBO Family",
+    "title": "https://ws.flv.nimo.tv/live/su1599512427628r795aa3513d96486ecb48bf44496b8fd7_high.flv",
+    "yyy": "Mr. Bean",
     "iklan": "",
-    "url": "1",
+    "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/astroawani.png"
   },
   {
     "id": 32,
-    "title": "http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass",
-    "yyy": "Fox Movies",
+    "title": "http://95.211.211.168/live/ptvsports2002/playlist.m3u8",
+    "yyy": "PTV Sport",
     "iklan": "",
-    "url": "1",
+    "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/albahjah.png"
   }
 ],
