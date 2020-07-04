@@ -167,6 +167,94 @@
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/disney.png"
+  },
+  {
+    "id": 22,
+    "title": "http://119.82.224.75:1935/live/ahsantv/chunk.m3u8",
+    "yyy": "Ahsan TV",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/ahsan.png"
+  },
+  {
+    "id": 23,
+    "title": "http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8",
+    "yyy": "Nabawi TV",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/nabawi.png"
+  },
+  {
+    "id": 24,
+    "title": "http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8",
+    "yyy": "Arek TV",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/arek.png"
+  },
+  {
+    "id": 25,
+    "title": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8",
+    "yyy": "TVRI Budaya",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvribudaya.png"
+  },
+  {
+    "id": 26,
+    "title": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8",
+    "yyy": "TVRI Sport",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvrisport.png"
+  },
+  {
+    "id": 27,
+    "title": "http://wowza58.indostreamserver.com:1935/tempotv/live/playlist.m3u8",
+    "yyy": "Tempo TV",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tempo.png"
+  },
+  {
+    "id": 28,
+    "title": "https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8",
+    "yyy": "Trace Urban",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/traceurban.png"
+  },
+  {
+    "id": 29,
+    "title": "https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8",
+    "yyy": "Astro Awani",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/astroawani.png"
+  },
+  {
+    "id": 30,
+    "title": "https://edge.siar.us/albahjahtv/live/playlist.m3u8",
+    "yyy": "Al-Bahjah TV",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/albahjah.png"
+  },
+  {
+    "id": 31,
+    "title": "http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass",
+    "yyy": "HBO Family",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/astroawani.png"
+  },
+  {
+    "id": 32,
+    "title": "http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass",
+    "yyy": "Fox Movies",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/albahjah.png"
   }
     
 ],
