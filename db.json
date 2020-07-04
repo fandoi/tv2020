@@ -245,8 +245,8 @@
   "indo2": [
   {
     "id": 31,
-    "title": "https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8",
-    "yyy": "Real Madrid TV",
+    "title": "https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/hdntl=exp=1593963457~acl=%2f*~data=hdntl~hmac=339d8c3e23fa39091fc0a77e682f7077f75bb2fe8b541ba5528b10410697bb9d/master_964.m3u8",
+    "yyy": "Sony Ten",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/astroawani.png"
