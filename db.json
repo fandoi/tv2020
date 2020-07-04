@@ -191,6 +191,54 @@
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/arek.png"
+  },
+  {
+    "id": 25,
+    "title": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8",
+    "yyy": "TVRI Budaya",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvribudaya.png"
+  },
+  {
+    "id": 26,
+    "title": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8",
+    "yyy": "TVRI Sport",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvrisport.png"
+  },
+  {
+    "id": 27,
+    "title": "http://wowza58.indostreamserver.com:1935/tempotv/live/playlist.m3u8",
+    "yyy": "Tempo TV",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tempo.png"
+  },
+  {
+    "id": 28,
+    "title": "https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8",
+    "yyy": "Trace Urban",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/traceurban.png"
+  },
+  {
+    "id": 29,
+    "title": "https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8",
+    "yyy": "Astro Awani",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/astroawani.png"
+  },
+  {
+    "id": 30,
+    "title": "https://edge.siar.us/albahjahtv/live/playlist.m3u8",
+    "yyy": "Al-Bahjah TV",
+    "iklan": "",
+    "url": "",
+    "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/albahjah.png"
   }
     
 ],
