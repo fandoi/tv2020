@@ -34,7 +34,7 @@
   },
   {
     "id": 5,
-    "title": "https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8",
+    "title": "https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8",
     "yyy": "",
     "iklan": "",
     "url": "",
@@ -50,10 +50,10 @@
   },
   {
     "id": 7,
-    "title": "https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8",
+    "title": "https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/05.m3u8",
     "yyy": "",
     "iklan": "",
-    "url": "1",
+    "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvone.png"
   },
   {
@@ -98,7 +98,7 @@
   },
   {
     "id": 13,
-    "title": "https://cdn-livetv5.metube.id/hls/rtv_480/index.m3u8",
+    "title": "https://cdngb196.useetv.com/joss/18/rtv/chunklist_w852694134_b684100_sleng.m3u8?enc=4bqcGLAGdu_4z_kzYpDTkg&exp=1593944722",
     "yyy": "",
     "iklan": "",
     "url": "",
