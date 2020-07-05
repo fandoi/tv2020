@@ -219,7 +219,7 @@
   {
     "id": 28,
     "title": "https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8",
-    "yyy": "Trace Urban",
+    "yyy": "Trace Urban\n(Musik)",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/traceurban.png"
@@ -227,7 +227,7 @@
   {
     "id": 29,
     "title": "https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8",
-    "yyy": "Bein Sport",
+    "yyy": "Bein Sport\n(Olahraga)",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/astroawani.png"
@@ -235,7 +235,7 @@
   {
     "id": 30,
     "title": "https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/hdntl=exp=1594032147~acl=%2f*~data=hdntl~hmac=9f4d1b2740549b27567075e30a7e30df3567840396b95ab250eb93cf2177e958/master_964.m3u8",
-    "yyy": "Sony Ten 1",
+    "yyy": "Sony Ten 1\n(Olahraga)",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/albahjah.png"
@@ -246,7 +246,7 @@
   {
     "id": 31,
     "title": "https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/hdntl=exp=1593963779~acl=%2f*~data=hdntl~hmac=3befc9702b166d2f099f965d3ca7b67710e52039873f543e8155243d08539997/master_696.m3u8",
-    "yyy": "Sony Ten 2",
+    "yyy": "Sony Ten 2\n(Olahraga)",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/astroawani.png"
@@ -254,7 +254,7 @@
   {
     "id": 32,
     "title": "http://95.211.211.168/live/ptvsports2002/playlist.m3u8",
-    "yyy": "PTV Sport",
+    "yyy": "PTV Sport\n(Olahraga)",
     "iklan": "",
     "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/albahjah.png"
