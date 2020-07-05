@@ -2,7 +2,7 @@
   "indo": [
   {
     "id": 1,
-    "title": "https://m.vidio.com/live/205-indosiar?gclid=EAIaIQobChMIysXNyc2k6gIVz34rCh2agQmSEAAYASAAEgJNZfD_BwE",
+    "title": "https://www.vidio.com/live/205-indosiar",
     "yyy": "",
     "iklan": "",
     "url": "1",
@@ -98,10 +98,10 @@
   },
   {
     "id": 13,
-    "title": "https://etslive-2-vidio-com.akamaized.net/exp=1593959773~acl=/hls-p/ingest_geo_1561_*/*~hmac=4b36fc00f72250771eeedd4e4bbdee5a59b8fbd7e664991fc3a6dd420bcd30e7/hls-p/ingest_geo_1561_480p/index.m3u8",
+    "title": "https://www.vidio.com/live/1561-rtv",
     "yyy": "",
     "iklan": "",
-    "url": "",
+    "url": "1",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/rtv.png"
   },
   {
