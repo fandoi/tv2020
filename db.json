@@ -13,7 +13,7 @@
     "title": "https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8",
     "yyy": "",
     "iklan": "",
-    "url": "1",
+    "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/sctv.png"
   },
   {
@@ -34,18 +34,18 @@
   },
   {
     "id": 5,
-    "title": "https://www.rctiplus.com/tv/gtv",
+    "title": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8",
     "yyy": "",
     "iklan": "",
-    "url": "1",
+    "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/gtv.png"
   },
   {
     "id": 6,
-    "title": "https://www.useetv.com/livetv/metrotv",
+    "title": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8",
     "yyy": "",
     "iklan": "",
-    "url": "1",
+    "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/metrotv.png"
   },
   {
@@ -58,10 +58,10 @@
   },
   {
     "id": 8,
-    "title": "https://www.mivo.com/live/antv",
+    "title": "http://salaamiptv.online:80/play/kartubyu@gmail.com/08081977/KKQO49EI/norvegicus/antv_norvegicus/playlist.m3u8",
     "yyy": "",
     "iklan": "",
-    "url": "2",
+    "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/antv.png"
   },
   {
@@ -85,7 +85,7 @@
     "title": "https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8",
     "yyy": "",
     "iklan": "",
-    "url": "1",
+    "url": "",
     "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/kompas.png"
   },
   {
@@ -114,7 +114,7 @@
   },
   {
     "id": 15,
-    "title": "https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8",
+    "title": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8",
     "yyy": "",
     "iklan": "",
     "url": "",
@@ -122,7 +122,7 @@
   },
   {
     "id": 16,
-    "title": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8",
+    "title": "http://stream1.ninmedia.tv:1935/pombotv/udp.stream_360p/playlist.m3u8",
     "yyy": "",
     "iklan": "",
     "url": "",
